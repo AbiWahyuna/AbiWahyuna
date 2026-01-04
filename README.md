@@ -1,5 +1,5 @@
 
-<img src="https://media1.tenor.com/m/nfvpuEi3DNYAAAAd/agnes-tachyon-tachyon-agnes.gif" width="2125" />
+<img src="https://media1.tenor.com/m/IvJyoEzEmwIAAAAd/herta-the-herta.gif" width="2125" style="border-radius: 10px;" />
 
 
 ![Abi Wahyuna](Img/Banner2.png)
@@ -80,5 +80,7 @@
 
 > *"You need to make a game wrong at least two or three times before you find the right path."*  
 > — **Ken Wong**
+
+<img src="https://media.tenor.com/4MwgTjDGvdMAAAAi/honkai-star-rail.gif" width="200" />
 
 
