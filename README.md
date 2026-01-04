@@ -48,6 +48,36 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AbiWahyuna&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=AbiWahyuna&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Games -->
+<p align="left">Play Games With Me</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbiWahyuna/AbiWahyuna/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbiWahyuna/AbiWahyuna/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbiWahyuna/AbiWahyuna/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/AbiWahyuna/AbiWahyuna/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Recently Playing</p>
+
+###
+
+<div align="left">
+  <a href="https://open.spotify.com/user/WhyYunna?">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=WhyYunna?&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
