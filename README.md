@@ -1,18 +1,8 @@
-<p>
-  <div style="
-    border-radius: 10px;
-    overflow: hidden;
-  ">
-    <img 
-      src="https://media1.tenor.com/m/qCbEaghaJf8AAAAd/the-herta-herta.gif"
-      style="width: 1000px;"
-    />
-  </div>
-</p>
+
+<img src="https://media1.tenor.com/m/qCbEaghaJf8AAAAd/the-herta-herta.gif" width="1000" />
 
 
 
-![Abi Wahyuna](Img/Banner2.png)
 
 
 <!-- 
@@ -37,7 +27,7 @@
 ![Wahyuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbiWahyuna)
  -->
 
-## Hello World! I'm Abi Wahyuna 👋
+# Hello World! I'm Abi Wahyuna 👋
 
 
 #### 🌐 Socials:
