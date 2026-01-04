@@ -1,5 +1,15 @@
+<p>
+  <div style="
+    border-radius: 10px;
+    overflow: hidden;
+  ">
+    <img 
+      src="https://media1.tenor.com/m/qCbEaghaJf8AAAAd/the-herta-herta.gif"
+      style="width: 1000px;"
+    />
+  </div>
+</p>
 
-<img src="https://media1.tenor.com/m/qCbEaghaJf8AAAAd/the-herta-herta.gif" width="800" height="300" style="border-radius: 100px;" />
 
 
 ![Abi Wahyuna](Img/Banner2.png)
