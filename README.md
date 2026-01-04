@@ -42,8 +42,11 @@
 #### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbiWahyuna&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
-#### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+#### ✍️ Dev Quote
+
+> *"You need to make a game wrong at least two or three times before you find the right path."*  
+> — **Ken Wong**
+
 
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AbiWahyuna&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
@@ -60,18 +63,15 @@
 
 ###
 
+###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/AbiWahyuna/AbiWahyuna/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/AbiWahyuna/AbiWahyuna/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" 
-    src="https://raw.githubusercontent.com/AbiWahyuna/AbiWahyuna/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbiWahyuna/AbiWahyuna/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbiWahyuna/AbiWahyuna/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AbiWahyuna/AbiWahyuna/output/pacman-contribution-graph.svg">
 </picture>
 
-
 ###
 
-<img src="https://raw.githubusercontent.com/AbiWahyuna/AbiWahyuna/output/snake.svg" alt="Snake animation" />
 
-###
+
