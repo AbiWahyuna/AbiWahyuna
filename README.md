@@ -26,8 +26,6 @@
 
 ## Hello World! I'm Abi Wahyuna 👋
 
-##
-
 #### ✍️ Dev Quote
 
 > *"You need to make a game wrong at least two or three times before you find the right path."*  
