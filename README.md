@@ -75,11 +75,3 @@
 <p align="left">Recently Playing</p>
 
 ###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/WhyYunna">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=WhyYunna&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
