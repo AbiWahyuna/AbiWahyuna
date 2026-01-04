@@ -26,12 +26,6 @@
 
 ## Hello World! I'm Abi Wahyuna 👋
 
-#### ✍️ Dev Quote
-
-> *"You need to make a game wrong at least two or three times before you find the right path."*  
-> — **Ken Wong**
-
-##
 
 #### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whyyunna_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@whyyunna__) 
@@ -76,5 +70,12 @@
 
 ###
 
+---
+###
+
+#### ✍️ Dev Quote
+
+> *"You need to make a game wrong at least two or three times before you find the right path."*  
+> — **Ken Wong**
 
 
