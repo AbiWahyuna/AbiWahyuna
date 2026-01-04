@@ -1,5 +1,5 @@
 
-<img src="https://media1.tenor.com/m/sHq4qCqd8zQAAAAd/agnes-tachyon-tachyon.gif" width="2125" height="160" style="border-radius: 10px;" />
+<img src="https://media1.tenor.com/m/qCbEaghaJf8AAAAd/the-herta-herta.gif" width="800" height="300" style="border-radius: 100px;" />
 
 
 ![Abi Wahyuna](Img/Banner2.png)
