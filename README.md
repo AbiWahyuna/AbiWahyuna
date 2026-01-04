@@ -71,7 +71,3 @@
 <img src="https://raw.githubusercontent.com/AbiWahyuna/AbiWahyuna/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p align="left">Recently Playing</p>
-
-###
