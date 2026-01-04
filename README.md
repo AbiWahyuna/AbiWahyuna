@@ -56,7 +56,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Games -->
-p align="left">Play Games With Me</p>
+<p align="left">Play Games With Me</p>
 
 ###
 
@@ -77,8 +77,8 @@ p align="left">Play Games With Me</p>
 ###
 
 <div align="left">
-  <a href="https://open.spotify.com/user/WhyYunna?">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=WhyYunna?&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/WhyYunna">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=WhyYunna&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
