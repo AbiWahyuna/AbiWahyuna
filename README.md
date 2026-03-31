@@ -1,5 +1,5 @@
 
-<img src="Img/Banner2.png" />
+<img src="Img/Banner4.png" />
 
 
 
@@ -29,6 +29,25 @@
  -->
 
 # Hello World! I'm Abi Wahyuna 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=25&center=true&vCenter=true&width=600&lines=Unity+Game+Developer;C%23+Programmer"/>
+</p>
+
+```csharp
+public class AboutMe : MonoBehaviour
+{
+    public string Name             = "Muhammad Nurul Najmi Mertayasa";
+    public string MadeUpName       = "STYLE";
+    public string Role             = "Game Developer, Gamer";
+    public string Location         = "Bali/Gianyar/Sukawati";
+    public string[] Passion        = { "Gaming", "Game Programming" };
+
+    void Start()
+    {
+        Debug.Log("Starting from nothing, becoming something");
+    }
+}
 
 
 #### 🌐 Socials:
@@ -71,7 +90,3 @@
 
 > *"You need to make a game wrong at least two or three times before you find the right path."*  
 > — **Ken Wong**
-
-<img src="https://media.tenor.com/4MwgTjDGvdMAAAAi/honkai-star-rail.gif" width="200" />
-
-
