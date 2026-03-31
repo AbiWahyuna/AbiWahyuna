@@ -1,5 +1,5 @@
 
-<img src="Img/Banner4.png" />
+<img src="Img/banner4.png" />
 
 
 
@@ -37,17 +37,19 @@
 ```csharp
 public class AboutMe : MonoBehaviour
 {
-    public string Name             = "Muhammad Nurul Najmi Mertayasa";
-    public string MadeUpName       = "STYLE";
-    public string Role             = "Game Developer, Gamer";
+    public string Name             = "I Putu Abi Wahyuna";
+    public string MadeUpName       = "AbiWahyuna";
+    public string Role             = "UI/UX Design, Web programming, Game Programming";
     public string Location         = "Bali/Gianyar/Sukawati";
-    public string[] Passion        = { "Gaming", "Game Programming" };
+    public string[] Passion        = { "Design", "UI/UX Design" };
 
     void Start()
     {
         Debug.Log("Starting from nothing, becoming something");
     }
 }
+
+```
 
 
 #### 🌐 Socials:
