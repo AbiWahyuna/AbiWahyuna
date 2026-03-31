@@ -31,8 +31,9 @@
 # Hello World! I'm Abi Wahyuna 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF41&size=25&center=true&vCenter=true&width=600&lines=Unity+Game+Developer;C%23+Programmer"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=d54218&size=25&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Game+Programmer"/>
 </p>
+
 
 ```csharp
 public class AboutMe : MonoBehaviour
@@ -75,7 +76,7 @@ public class AboutMe : MonoBehaviour
 
 ###
 
-###
+###  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbiWahyuna/AbiWahyuna/output/pacman-contribution-graph-dark.svg">
